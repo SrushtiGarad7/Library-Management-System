@@ -56,10 +56,7 @@ This project serves as an educational tool to learn:
 
 ### Manual Command Line (Any OS)
 1. Open your terminal or Command Prompt.
-2. Go to the project root directory:
-   ```cmd
-   cd "C:\Users\srush\Downloads\java project"
-   ```
+2. Go to the project root directory.
 3. Compile the Java file:
    ```cmd
    javac -d bin src/LibrarySystem.java
