@@ -58,15 +58,11 @@ This project serves as an educational tool to learn:
 1. Open your terminal or Command Prompt.
 2. Go to the project root directory:
    ```cmd
-   cd path-<<<<<<< HEAD
-2. Go to the project root directory.
-=======
-2. Go to the project root directory:
-   ```cmd
    cd path-to-your-project
    ```
->>>>>>> d0364b1 (Update run instructions)
-ySystem.java
+3. Compile the Java file:
+   ```cmd
+   javac -d bin src/LibrarySystem.java
    ```
 4. Run the program:
    ```cmd
