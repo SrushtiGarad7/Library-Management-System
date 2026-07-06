@@ -1,4 +1,4 @@
-# Library Management System 
+# BookVault
 
 A lightweight, console-based Library Management System designed specifically for beginners to understand core Java programming and Object-Oriented Programming (OOP) concepts.
 
